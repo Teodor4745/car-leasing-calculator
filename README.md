@@ -14,5 +14,5 @@ Built like a component of an Angular application: HTML, CSS and TS bundled toget
 2. **Install dependencies:**
     npm install
 
-3. **Build the project and start the development server with a watcher**
+3. **Build the project and start the development server with a watcher:**
     npm run dev
