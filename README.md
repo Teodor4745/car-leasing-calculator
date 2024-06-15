@@ -2,7 +2,11 @@
 
 Solution to Car Leasing Calculator task.
 
-built with HTML, CSS, and TypeScript.
+Built with HTML, CSS, and TypeScript.
+
+Includes Bootstrap 5.3.
+
+Built like a component of an Angular application: HTML, CSS and TS bundled together.
 
 1. **Clone the repository:**
     git clone [<repository-url>](https://github.com/Teodor4745/car-leasing-calculator.git)
