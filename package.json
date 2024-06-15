@@ -1,0 +1,22 @@
+{
+  "name": "car-leasing-calculator",
+  "version": "1.0.0",
+  "description": "Solution to Car Leasing Calculator task",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "lite-server",
+    "watch:ts": "tsc --watch",
+    "watch:server": "lite-server",
+    "dev": "concurrently \"npm:watch:ts\" \"npm:watch:server\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.14.2",
+    "concurrently": "^8.2.2",
+    "lite-server": "^2.6.1",
+    "typescript": "^5.4.5"
+  }
+}
